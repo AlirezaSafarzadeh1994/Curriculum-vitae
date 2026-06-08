@@ -136,7 +136,10 @@ img, svg {
 }
 
 .nav-links a,
-.theme-toggle,
+.theme-toggle {
+  font-size: 1.2rem;
+  line-height: 1;
+},
 .nav-toggle {
   font: inherit;
   color: var(--muted);
