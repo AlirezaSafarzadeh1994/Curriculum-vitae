@@ -136,10 +136,7 @@ img, svg {
 }
 
 .nav-links a,
-.theme-toggle {
-  font-size: 1.2rem;
-  line-height: 1;
-},
+.theme-toggle,
 .nav-toggle {
   font: inherit;
   color: var(--muted);
@@ -151,6 +148,11 @@ img, svg {
 .nav-links a {
   font-weight: 650;
   font-size: 0.95rem;
+}
+
+.theme-toggle {
+  font-size: 1.2rem;
+  line-height: 1;
 }
 
 .theme-toggle,
@@ -363,6 +365,11 @@ h3 {
 .education-card {
   padding: 1.35rem;
   border-radius: 22px;
+}
+
+.publication-card a {
+  color: var(--brand);
+  font-weight: 800;
 }
 
 .timeline {
