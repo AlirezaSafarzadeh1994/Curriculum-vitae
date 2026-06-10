@@ -1,6 +1,6 @@
 # Alireza Safarzadeh - CV Website
 
-A clean, responsive GitHub Pages website generated from Alireza Safarzadeh's CV.
+A clean, responsive GitHub Pages website generated from Alireza Safarzadeh's updated CV.
 
 ## Files
 
@@ -15,6 +15,16 @@ A clean, responsive GitHub Pages website generated from Alireza Safarzadeh's CV.
     ├── favicon.svg
     └── og-card.svg
 ```
+
+## What this version includes
+
+- Updated headline: Data Scientist / BI Developer
+- New BI Developer experience at Arzesh Afarinan Fadak Holding Co.
+- Updated Pulseware dates ending Dec 2025
+- Added BI, data warehousing, SSIS, Power BI, Selenium, and BeautifulSoup skills
+- Added Holding Performance Data Warehouse & BI Dashboards project
+- Added three publication entries with DOI/arXiv links
+- Replaced the downloadable PDF CV in `assets/`
 
 ## How to publish with GitHub Pages
 
